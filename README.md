@@ -1,3 +1,6 @@
+# Introducing SkinSkan.
+<img width="1438" alt="IMG_5505" src="https://github.com/mdawn65/SkinSkan/assets/68881001/0b932659-0728-44af-ad22-fe9bd12988f4">
+
 ## Inspiration
 When we joined the hackathon, we began brainstorming about problems in our lives. After discussing some constant struggles in their lives with many friends and family, one response was ultimately shared: health. Interestingly, one of the biggest health concerns that impacts everyone in their lives comes from their *skin*. Even though the skin is the biggest organ in the body and is the first thing everyone notices, it is the most neglected part of the body. 
 
@@ -20,3 +23,5 @@ One of the aspects we learned from this experience was how to use prompt enginee
 
 ## What's next for SkinSkan 
 We are incredibly excited for the future of SkinSkan. By expanding the model to incorporate more minute details of the skin and detect more subtle and milder conditions, SkinSkan will be able to help hundreds of people detect conditions that they may have ignored. Furthermore, by incorporating medical and family history alongside genetic background, our model could be a viable tool that hospitals around the world could use to direct them to the right treatment plan. Lastly, in the future, we hope to form partnerships with skincare and dermatology companies to expand the accessibility of our services for people of all backgrounds. 
+
+![skinskan](https://github.com/mdawn65/SkinSkan/assets/68881001/d7a13a08-95fd-4f31-9a4f-d123917aad3b)
